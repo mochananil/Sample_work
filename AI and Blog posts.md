@@ -6,7 +6,7 @@ The primary objectives of this technical documentation are to:
 
 1. Explain how Artificial Intelligence (AI) has revolutionized the process of writing blog posts.
 2. Highlight the key features and capabilities of AI in content creation.
-3. Provide insights into the benefits and challenges associated with using AI for blog writing.
+3. Provide insights into the benefits associated with using AI for blog writing.
 
 ----
 
