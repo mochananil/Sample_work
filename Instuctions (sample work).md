@@ -24,10 +24,10 @@ Nevertheless, it involves specific requirements and essential links, so ensure y
 ## How to Set up and Use ChatGPT with Siri on Your iPhone
 
 1. Open the Shortcuts app to access the downloaded Siri Pro shortcut.
-   ![Siri ChatGPT shortcut app](image_link_here)
+   ![Siri ChatGPT shortcut app](https://github.com/mochananil/Sample_work/blob/6b13b036c19be63746bd5b5389c6b4399230219f/1.jpeg)
 
 2. Locate the Siri Pro shortcut and tap the ellipsis icon (three dots) to open the shortcut’s settings.
-   ![Ellipsis icon](image_link_here)
+   ![Ellipsis icon]([image_link_here]()
 
 3. Under the second dialog box titled “Text“, you will see the message – “Insert ChatGPT API Key here.” Paste your previously copied API key here and tap “Done” at the top right.
 
