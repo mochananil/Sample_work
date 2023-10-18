@@ -46,7 +46,7 @@ Facilitating the integration of ChatGPT with an iPhone's Siri is a straightforwa
 2. Locate the Siri Pro shortcut in the shortcuts app.
 3. Click the three dots in the shortcut to open the settings menu.
 
-   ![Three dots](https://github.com/mochananil/Sample_work/blob/f03688f934ab14bdecbec2b2323538b214553f0a/three%20dots.jpg)
+   ![Three dots](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/three%20dots.jpg)
 
 4. In the third dialog box titled “If“, you will see the message – “GENERATE AND ADD YOUR API KEY HERE.” Paste your previously copied API key here.
 5. After pasting the API key, click "Done" located at the top right corner of the screen.
