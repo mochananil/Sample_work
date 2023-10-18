@@ -38,7 +38,7 @@ Nevertheless, it involves specific requirements and essential links, so ensure y
 
 2. Locate the Siri Pro shortcut and tap the ellipsis icon (three dots) to open the shortcut’s settings.
    
-   ![Ellipsis icon](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/2%20(new).jpg)
+   ![Ellipsis icon](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/2.jpg)
 
 3. Under the third dialog box titled “If“, you will see the message – “GENERATE AND ADD YOUR API KEY HERE.” Paste your previously copied API key here and tap “Done” at the top right.
 
