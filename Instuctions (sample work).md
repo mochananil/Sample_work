@@ -7,16 +7,22 @@
 - Set up the Siri Pro shortcut.
 - Obtain and use the ChatGPT API key.
 
-In the current AI landscape, ChatGPT stands out as a noteworthy chatbot, coexisting with traditional voice assistants like Siri.  
+In the current AI landscape, ChatGPT stands out as a noteworthy chatbot, coexisting with traditional voice assistants like Siri. 
 While Siri is recognized for its long-standing presence, it's acknowledged to have certain limitations in terms of intelligence.  
 
 Facilitating the integration of ChatGPT with an iPhone's Siri voice assistant is a straightforward process.  
-Nevertheless, it involves specific requirements and essential links, so ensure you have them ready before proceeding.
+
+>Note: This process involves specific requirements and essential links, so ensure you have them ready before proceeding.
 
 ## Page Contents
 
-- [Requirements to Get ChatGPT to Work with Siri](#requirements-to-get-chatgpt-to-work-with-siri)
-- [How to Set up and Use ChatGPT with Siri on Your iPhone](#how-to-set-up-and-use-chatgpt-with-siri-on-your-iphone)
+- [How to Use ChatGPT with Siri on iPhone](#how-to-use-chatgpt-with-siri-on-iphone)
+    - [Objectives:](#objectives)
+  - [Page Contents](#page-contents)
+  - [Requirements to Get ChatGPT to Work with Siri](#requirements-to-get-chatgpt-to-work-with-siri)
+  - [How to Set up and Use ChatGPT with Siri on Your iPhone](#how-to-set-up-and-use-chatgpt-with-siri-on-your-iphone)
+  - [Author:](#author)
+  - [Changelog:](#changelog)
 
 ## Requirements to Get ChatGPT to Work with Siri
 
@@ -26,7 +32,9 @@ Nevertheless, it involves specific requirements and essential links, so ensure y
     ![Siri Pro shortcut](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/1.jpeg)
 
 2. **ChatGPT API Key**
-   - To use ChatGPT’s services with Siri, obtain the API key from your OpenAI account. Visit the [OpenAI API keys page](https://platform.openai.com/account/api-keys) and create a new secret key. Copy the generated API key.
+   1. To use ChatGPT’s services with Siri, obtain the API key from your OpenAI account.
+   2. Visit the [OpenAI API keys page](https://platform.openai.com/account/api-keys) and create a new secret key.
+   3. Copy the generated API key.
      
    ![OpenAI login page](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/4.jpg)
 
@@ -41,19 +49,23 @@ Nevertheless, it involves specific requirements and essential links, so ensure y
    
    ![Siri ChatGPT shortcut app](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/7.jpg)
 
-2. Locate the Siri Pro shortcut and tap the ellipsis icon (three dots) to open the shortcut’s settings.
+2. Locate the Siri Pro shortcut in the shortcuts app.
+3. Click the three dots in the shortcut to open the settings menu.
 
    ![Three dots](https://github.com/mochananil/Sample_work/blob/f03688f934ab14bdecbec2b2323538b214553f0a/three%20dots.jpg)
 
-3. Under the third dialog box titled “If“, you will see the message – “GENERATE AND ADD YOUR API KEY HERE.” Paste your previously copied API key here and tap “Done” at the top right.
+4. In the third dialog box titled “If“, you will see the message – “GENERATE AND ADD YOUR API KEY HERE.” Paste your previously copied API key here.
+5. After pasting the API key, click "Done" located at the top right corner of the screen.
 
    ![placeholder for API key](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/3.jpg)  
    
    ![API Key replaced](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/8.jpg)
 
-4. ChatGPT is now integrated with Siri on your iPhone. Invoke the shortcut by either tapping on Siri Pro in the Shortcuts app or saying Hey Siri followed by the shortcut’s name (Launch Siri Pro)
+ChatGPT is now integrated with Siri on your iPhone.
 
-   Note: First time there would be a pop-up in which we would have to click allow to initiate:
+Invoke the shortcut by either clicking on Siri Pro in the Shortcuts app or by saying "Hey Siri" followed by the shortcut’s name (Example: "Hey Siri, Launch Siri Pro")
+
+> Note: The first time there would be a pop-up in which we would have to click allow to initiate:
 
    ![Siri ChatGPT](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/9.jpg)
    
@@ -62,7 +74,7 @@ Nevertheless, it involves specific requirements and essential links, so ensure y
 
 > Note: The shortcut might not always work depending on ChatGPT’s server load or downtime.
 
-Congratulations! You've successfully set up ChatGPT to work with Siri on your iPhone, enhancing your voice assistant experience.
+Congratulations! Siri has now been successfully integrated with ChatGPT on the iPhone, enhancing the voice assistant experience.
 
 ## Author:
 
