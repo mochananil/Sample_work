@@ -7,22 +7,16 @@
 - Set up the Siri Pro shortcut.
 - Obtain and use the ChatGPT API key.
 
-In the current AI landscape, ChatGPT stands out as a noteworthy chatbot, coexisting with traditional voice assistants like Siri. 
-While Siri is recognized for its long-standing presence, it's acknowledged to have certain limitations in terms of intelligence.  
+In the current AI landscape, ChatGPT stands out as a noteworthy chatbot, coexisting with traditional voice assistants like Siri. While Siri is recognized for its long-standing presence, it's acknowledged to have certain limitations in terms of intelligence.  
 
-Facilitating the integration of ChatGPT with an iPhone's Siri voice assistant is a straightforward process.  
+Facilitating the integration of ChatGPT with an iPhone's Siri is a straightforward process.  
 
->Note: This process involves **specific requirements and essential links**, so ensure you have them ready before proceeding.
+> Note: This process involves **specific requirements and essential links**, so ensure you have them ready before proceeding.
 
 ## Page Contents
 
-- [How to Use ChatGPT with Siri on iPhone](#how-to-use-chatgpt-with-siri-on-iphone)
-    - [Objectives:](#objectives)
-  - [Page Contents](#page-contents)
-  - [Requirements to Get ChatGPT to Work with Siri](#requirements-to-get-chatgpt-to-work-with-siri)
-  - [How to Set up and Use ChatGPT with Siri on Your iPhone](#how-to-set-up-and-use-chatgpt-with-siri-on-your-iphone)
-  - [Author:](#author)
-  - [Changelog:](#changelog)
+- [Requirements to Get ChatGPT to Work with Siri](#requirements-to-get-chatgpt-to-work-with-siri)
+- [How to Set up and Use ChatGPT with Siri on Your iPhone](#how-to-set-up-and-use-chatgpt-with-siri-on-your-iphone)
 
 ## Requirements to Get ChatGPT to Work with Siri
 
