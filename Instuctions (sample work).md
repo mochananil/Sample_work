@@ -7,7 +7,7 @@
 - Set up the Siri Pro shortcut.
 - Obtain and use the ChatGPT API key.
 
-In the current AI landscape, ChatGPT stands out as a noteworthy chatbot, coexisting with traditional voice assistants like Siri. While Siri is recognized for its long-standing presence, it's acknowledged to have certain limitations in terms of intelligence.  
+In the current AI landscape, **ChatGPT** stands out as a noteworthy chatbot, coexisting with traditional voice assistants like Siri. While Siri is recognized for its long-standing presence, it's acknowledged to have certain limitations in terms of intelligence.  
 
 Facilitating the integration of ChatGPT with an iPhone's Siri is a straightforward process.  
 
