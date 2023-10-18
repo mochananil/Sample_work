@@ -38,13 +38,13 @@ Nevertheless, it involves specific requirements and essential links, so ensure y
 
 2. Locate the Siri Pro shortcut and tap the ellipsis icon (three dots) to open the shortcut’s settings.
    
-   ![Ellipsis icon](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/2.jpg)
+   ![Ellipsis icon](https://github.com/mochananil/Sample_work/blob/c0694a21e8f67f74795af717cbb087d99781c3b7/2.jpg)
 
 3. Under the third dialog box titled “If“, you will see the message – “GENERATE AND ADD YOUR API KEY HERE.” Paste your previously copied API key here and tap “Done” at the top right.
 
    ![placeholder for API key](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/3.jpg)  
    
-   ![API Key replaced](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/3.jpg)
+   ![API Key replaced](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/8.jpg)
 
 4. ChatGPT is now integrated with Siri on your iPhone. Invoke the shortcut by either tapping on Siri Pro in the Shortcuts app or saying Hey Siri followed by the shortcut’s name (Launch Siri Pro)
 
