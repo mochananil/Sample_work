@@ -55,7 +55,7 @@ Nevertheless, it involves specific requirements and essential links, so ensure y
    ![Siri ChatGPT](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/10.jpg)
 
 
-Note: The shortcut might not always work depending on ChatGPT’s server load or downtime.
+> Note: The shortcut might not always work depending on ChatGPT’s server load or downtime.
 
 Congratulations! You've successfully set up ChatGPT to work with Siri on your iPhone, enhancing your voice assistant experience.
 
