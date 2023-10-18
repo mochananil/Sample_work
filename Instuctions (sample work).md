@@ -48,6 +48,10 @@ Nevertheless, it involves specific requirements and essential links, so ensure y
 
 4. ChatGPT is now integrated with Siri on your iPhone. Invoke the shortcut by either tapping on Siri Pro in the Shortcuts app or saying Hey Siri followed by the shortcut’s name (Launch Siri Pro)
 
+   Note: First time there would be a pop-up in which we would have to click allow to initiate:
+
+   ![Siri ChatGPT](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/9.jpg)
+   
    ![Siri ChatGPT](https://github.com/mochananil/Sample_work/blob/3de43280769451cd70ea4f8c79c3e28c40a3cea2/10.jpg)
 
 
