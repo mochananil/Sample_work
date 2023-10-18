@@ -13,6 +13,11 @@ While Siri is recognized for its long-standing presence, it's acknowledged to ha
 Facilitating the integration of ChatGPT with an iPhone's Siri voice assistant is a straightforward process.  
 Nevertheless, it involves specific requirements and essential links, so ensure you have them ready before proceeding.
 
+## Page Contents
+
+- [Requirements to Get ChatGPT to Work with Siri](#requirements-to-get-chatgpt-to-work-with-siri)
+- [How to Set up and Use ChatGPT with Siri on Your iPhone](#how-to-set-up-and-use-chatgpt-with-siri-on-your-iphone)
+
 ## Requirements to Get ChatGPT to Work with Siri
 
 1. **Siri ChatGPT Shortcut**
